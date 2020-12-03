@@ -39,7 +39,9 @@ The webserver is hosted on localhost using the Flask framework on Python. See th
 
 ## Schematic
 
-[schematic](https://github.com/orerunsewe/ECE4180_Project/blob/master/Schematic.png?raw=true)
+Below is a link to a block diagram showing the component connections. 
+
+![schematic](https://github.com/orerunsewe/ECE4180_Project/blob/master/Schematic.png?raw=true)
 
 ## References 
 1. https://t.co/81FpWMtOCY?amp=1
